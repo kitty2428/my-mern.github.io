@@ -1,0 +1,65 @@
+.Japan{
+    background-image: linear-gradient(to left, rgb(243, 243, 243), white);
+padding-bottom: 5%;
+}
+.japan1{
+    /* border: 2px solid black; */
+    margin-left: 4%;
+    margin-right: 9%;
+}
+.japimg{
+    margin: 1%;
+    
+}
+.pjap{
+    font-size: 38px;
+    float: right;
+    margin-right: 10%;
+    color: black;
+   font-style: italic;
+    word-spacing: 1%;
+    font-weight: bold;
+}
+p1{
+    font-size: 30px;
+}
+.japcity{
+    /* border: 2px solid black; */
+    margin-left: 1.2%;
+}
+.citypic,.japimg{
+    margin:1%;
+    display: inline-block;
+}
+.japimg:hover{
+     border-radius: 20px;
+}
+.japh4{
+    text-align: center;
+}
+.japdivlinks{
+    background-color: rgb(222, 218, 218);
+    height:250px;
+    font-size: 17px;
+font-weight: bold;
+
+}
+.japlinks{
+float: left;
+    width: 300px;
+    height:270px;
+    background-color: rgb(255, 153, 27);
+    margin: 3%;
+    color: white;
+    padding: 2%;
+
+}
+.japh2{
+    font-size: 25px;
+}
+.jah2{
+    font-size: 15px ;
+    word-spacing: 5%;
+    letter-spacing: 1%;
+   
+}
